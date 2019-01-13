@@ -1,2 +1,3 @@
 # pestrich.github.io
-Хостинг сайта
+https://pestrich.github.io/
+Верстка из PSD макета
